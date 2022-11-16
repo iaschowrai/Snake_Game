@@ -1,2 +1,2 @@
 # Snake_Game
-Baisc Snake Game using Java programming.
+Basic Snake Game using Java programming.
